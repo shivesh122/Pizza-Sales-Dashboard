@@ -14,13 +14,14 @@ The goal of this project is to practice **data visualization, dashboard design, 
 - Visualizing insights such as:
   - Best-selling pizzas  
   - Revenue trends  
-  - Customer purchasing patterns  
-
+  - Customer purchasing patterns
+  
 ---
 
 ## 📊 Project View
 
-👉 [View the Dashboard (PDF)](files/PizzaSales.pdf)
+![Pizza Sales Dashboard](Pizza_Sales.png)
+![Pizza Sales Dashboard](Pizza_Report.png)
 
 ---
 
