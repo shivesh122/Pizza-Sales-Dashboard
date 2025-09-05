@@ -18,10 +18,14 @@ The goal of this project is to practice **data visualization, dashboard design, 
 
 ---
 
-## 📊 Dashboard Preview
-👉 [Click here to view the project](INSERT-YOUR-LINK-HERE)
+## 📊 Project View
 
-*(Replace `INSERT-YOUR-LINK-HERE` with your dashboard/report link.)*
+👉 [View the Dashboard (PDF)](files/PizzaSales.pdf)
+
+---
+
+## 📊 Dashboard Preview
+👉 [Click here to view the project](https://app.powerbi.com/view?r=eyJrIjoiM2Y3M2QwNTgtMTVlZi00ZmU4LTg0M2MtZGY0NTNmZDlhNjUyIiwidCI6IjFlYjk4MmNlLThkZTgtNDllMi1iMDA4LTNiYjJmYjg1NzU1YyJ9)
 
 ---
 
